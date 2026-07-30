@@ -1,0 +1,15 @@
+{
+  "id": "session-1783790235199",
+  "startedAt": "2026-07-11T17:17:15.199Z",
+  "cwd": "/Users/eloy/Downloads/Practica_de _LP ",
+  "context": {},
+  "metrics": {
+    "edits": 4,
+    "commands": 0,
+    "tasks": 0,
+    "errors": 0
+  },
+  "restoredAt": "2026-07-11T18:06:23.894Z",
+  "endedAt": "2026-07-11T18:06:24.808Z",
+  "duration": 2949610
+}

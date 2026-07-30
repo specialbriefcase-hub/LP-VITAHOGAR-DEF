@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/eloy/Downloads/Practica_de _LP /brand_assets/**)",
+      "Bash(sips -g pixelWidth -g pixelHeight brand_assets/*.PNG)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(node serve.mjs)",
+      "Bash(curl -s http://localhost:3000/)",
+      "Bash(curl -s http://localhost:3000/index.html)",
+      "Bash(pkill -f \"node serve.mjs\")",
+      "Bash(curl -s http://localhost:3000/components/ui/testimonials-columns-1.tsx)"
+    ]
+  },
+  "enabledMcpjsonServers": [
+    "claude-flow",
+    "playwright",
+    "chrome-devtools-mcp"
+  ]
+}
