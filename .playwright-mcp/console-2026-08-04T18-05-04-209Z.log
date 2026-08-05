@@ -1,0 +1,2 @@
+[   13027ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.youtube.com') does not match the recipient window's origin ('https://www.google.com'). @ https://www.youtube.com/s/player/ea6f527e/www-widgetapi.vflset/www-widgetapi.js:162
+[   26054ms] [INFO] [O11Y] [DatadogRUM] Initialized {service: app-console, env: production, version: ec7250df78190b97347721ded126697d4f1073ec} @ https://platform.claude.com/_next/static/chunks/47971-9c2c990575f5be27.js:46

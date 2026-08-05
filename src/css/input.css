@@ -563,3 +563,17 @@
   55%  { transform: scale(1.15); opacity: 1; }
   100% { transform: scale(1);    opacity: 1; }
 }
+
+/* ============================================================
+   Burger icon swap (unlayered — top-level rules outrank any
+   @layer content in Tailwind v4). Driven by aria-expanded, which
+   main.js toggles on every open/close. The default state (menu
+   closed) shows the three-bars icon; aria-expanded="true" shows
+   the X icon. This bypasses the v4 cascade-layer-order bug where
+   `.hidden` (utilities) loses to `.material-symbols-outlined`
+   (base) on specificity ties.
+   ============================================================ */
+#burger [data-icon-menu]  { display: none; }
+#burger [data-icon-close] { display: none; }
+#burger[aria-expanded="false"] [data-icon-menu]  { display: inline-block; }
+#burger[aria-expanded="true"]  [data-icon-close] { display: inline-block; }

@@ -1,0 +1,4 @@
+[      82ms] Unexpected token '<'
+[    5650ms] [WARNING] Blocked aria-hidden on an element because its descendant retained focus. The focus must not be hidden from assistive technology users. Avoid using aria-hidden on a focused element or its ancestor. Consider using the inert attribute instead, which will also prevent focus. For more details, see the aria-hidden section of the WAI-ARIA specification at https://w3c.github.io/aria/#aria-hidden.
+Element with focus: <a.font-label-bold text-label-bold text-on-surface-variant border-primary pb-1 px-3 py-3 block rounded-lg nav-link-mobile is-active>
+Ancestor with aria-hidden: <div.lg:hidden bg-surface/95 backdrop-blur-md border-t border-outline-variant/20 shadow-elev-2#mobile-menu> @ http://localhost:5501/?cb=3:0

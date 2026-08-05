@@ -1,0 +1,185 @@
+- generic [ref=f2e1]:
+  - navigation "Principal" [ref=f2e2]:
+    - generic [ref=f2e3]:
+      - link "VITAHOGAR - Inicio" [ref=f2e4] [cursor=pointer]:
+        - /url: "#"
+        - img "VITAHOGAR" [ref=f2e5]
+      - button "Abrir menú" [ref=f2e6]:
+        - generic [ref=f2e7]: menu
+        - generic [ref=f2e8]: close
+  - main [ref=f2e9]:
+    - generic [ref=f2e11]:
+      - generic [ref=f2e12]:
+        - paragraph [ref=f2e13]: Crédito Mejoravit · INFONAVIT
+        - heading "Tu hogar merece una mejora. Recibe hasta $169,039 MXN con Mejoravit." [level=1] [ref=f2e14]
+        - paragraph [ref=f2e15]: Crédito para trabajadores del sector privado. Plazos de hasta 10 años con tasa del 11% anual y dinero depositado directamente en tu cuenta bancaria para reparar, renovar o ampliar tu casa.
+        - generic [ref=f2e16]:
+          - link "Pre-califícate ahora" [ref=f2e17] [cursor=pointer]:
+            - /url: "#precal-mejoravit"
+          - link "Ver requisitos" [ref=f2e18] [cursor=pointer]:
+            - /url: "#requisitos"
+        - generic [ref=f2e19]:
+          - generic [ref=f2e20]: verified_user
+          - generic [ref=f2e21]: TU MEJORAVIT FÁCIL, SEGURO Y SIN DAR VUELTAS
+      - img "Imagen de una pareja pintando su casa, representando la mejora de su hogar con el crédito Mejoravit" [ref=f2e23]
+    - region [ref=f2e25]:
+      - generic [ref=f2e26]:
+        - heading "Beneficios del crédito Mejoravit" [level=2] [ref=f2e27]
+        - generic [ref=f2e28]:
+          - article [ref=f2e29]:
+            - generic [ref=f2e30]: task_alt
+            - heading "Asesoría personalizada" [level=3] [ref=f2e32]
+            - paragraph [ref=f2e33]: Te guiamos en cada paso del proceso hasta que te aprueban el crédito.
+          - article [ref=f2e34]:
+            - generic [ref=f2e35]: bolt
+            - heading "Aprobación rápida" [level=3] [ref=f2e37]
+            - paragraph [ref=f2e38]: Agilizamos tu solicitud para que obtengas tu crédito en el menor tiempo posible.
+          - article [ref=f2e39]:
+            - generic [ref=f2e40]: home_work
+            - heading "Uso libre para tu hogar" [level=3] [ref=f2e42]
+            - paragraph [ref=f2e43]: Utiliza los fondos para remodelar, ampliar o reparar cualquier área de tu casa.
+    - region [ref=f2e44]:
+      - generic [ref=f2e45]:
+        - generic [ref=f2e46]:
+          - paragraph [ref=f2e47]: Proceso
+          - heading "El camino a tu nuevo hogar en 3 pasos" [level=2] [ref=f2e48]
+        - list [ref=f2e49]:
+          - listitem [ref=f2e50]:
+            - generic [ref=f2e52]:
+              - heading "1. Pre-calificación gratuita" [level=3] [ref=f2e53]
+              - paragraph [ref=f2e54]: te decimos cuanto puedes obtener con INFONAVIT sin costo ni compromiso.
+            - generic [ref=f2e55]: "1"
+          - listitem [ref=f2e57]:
+            - generic [ref=f2e58]: "2"
+            - generic [ref=f2e61]:
+              - heading "2. Integración de expediente e inscripción del crédito" [level=3] [ref=f2e62]
+              - paragraph [ref=f2e63]: Te decimos exactamente qué necesitas, de forma clara y sencilla.
+          - listitem [ref=f2e64]:
+            - generic [ref=f2e66]:
+              - heading "3. Formalización y recepción de fondos" [level=3] [ref=f2e67]
+              - paragraph [ref=f2e68]: Recibe el dinero en tu tarjeta y comienza tu remodelación de inmediato.
+            - generic [ref=f2e69]: "3"
+    - region [ref=f2e71]:
+      - generic [ref=f2e72]:
+        - generic [ref=f2e73]:
+          - paragraph [ref=f2e74]: Requisitos
+          - heading "Requisitos para tu Crédito Mejoravit" [level=2] [ref=f2e75]
+          - paragraph [ref=f2e76]: "Para comenzar tu solicitud, asegúrate de cumplir con los siguientes puntos básicos:"
+        - list [ref=f2e77]:
+          - listitem [ref=f2e78]:
+            - generic [ref=f2e79]: check_circle
+            - paragraph [ref=f2e80]: Ser trabajador vigente dado de alta en el IMSS.
+          - listitem [ref=f2e81]:
+            - generic [ref=f2e82]: check_circle
+            - paragraph [ref=f2e83]:
+              - text: Tener al menos
+              - strong [ref=f2e84]: $15,000
+              - text: de saldo en tu subcuenta de vivienda (SSV).
+          - listitem [ref=f2e85]:
+            - generic [ref=f2e86]: check_circle
+            - paragraph [ref=f2e87]: Acta de nacimiento, impresión de CURP y constancia de situación fiscal.
+          - listitem [ref=f2e88]:
+            - generic [ref=f2e89]: check_circle
+            - paragraph [ref=f2e90]: Original y copia de tu INE, un comprobante de domicilio y tener tus biométricos actualizados en tu AFORE.
+          - listitem [ref=f2e91]:
+            - generic [ref=f2e92]: check_circle
+            - paragraph [ref=f2e93]:
+              - text: Estado de cuenta bancario con
+              - strong [ref=f2e94]: CLABE y RFC
+              - text: con homoclave no mayor a un mes.
+    - generic [ref=f2e95]:
+      - generic [ref=f2e96]:
+        - generic [ref=f2e97]:
+          - generic [ref=f2e98]: Testimonios
+          - heading "Lo que nuestros usuarios dicen" [level=2] [ref=f2e100]
+          - paragraph [ref=f2e101]: Vea lo que nuestros clientes tienen que decir sobre nosotros.
+        - generic [ref=f2e104]:
+          - generic [ref=f2e105]:
+            - generic [ref=f2e106]:
+              - generic [ref=f2e107]: "\"No sabía que podía usar mi ahorro de INFONAVIT sin hipotecar mi casa. Me prestaron $85,000 y remodeló toda la cocina y el baño. El proceso fue muy sencillo.\""
+              - generic [ref=f2e108]:
+                - img "Briana Patton" [ref=f2e109]
+                - generic [ref=f2e110]:
+                  - generic [ref=f2e111]: Lucía Hernandez
+                  - generic [ref=f2e112]: Trabajadora administrativa
+            - generic [ref=f2e113]:
+              - generic [ref=f2e114]: "\"Lo mejor fue que mi empresa paga casi la mitad del descuento mensual. Al final me salió muy barato ampliar mi casa con un cuarto extra para mis hijos.\""
+              - generic [ref=f2e115]:
+                - img "Bilal Ahmed" [ref=f2e116]
+                - generic [ref=f2e117]:
+                  - generic [ref=f2e118]: Roberto Sánchez
+                  - generic [ref=f2e119]: Operador de planta
+            - generic [ref=f2e120]:
+              - generic [ref=f2e121]: "\"En menos de una semana tenía el dinero en mi cuenta. No tuve que pedir prestado ni dar nada en garantía. Es el crédito más accesible que he tenido.\""
+              - generic [ref=f2e122]:
+                - img "Saman Malik" [ref=f2e123]
+                - generic [ref=f2e124]:
+                  - generic [ref=f2e125]: Patricia López
+                  - generic [ref=f2e126]: Trabajadora en empresa de valores
+          - generic [ref=f2e127]:
+            - generic [ref=f2e128]:
+              - generic [ref=f2e129]: "\"No sabía que podía usar mi ahorro de INFONAVIT sin hipotecar mi casa. Me prestaron $85,000 y remodeló toda la cocina y el baño. El proceso fue muy sencillo.\""
+              - generic [ref=f2e132]:
+                - generic [ref=f2e133]: Lucía Hernandez
+                - generic [ref=f2e134]: Trabajadora administrativa
+            - generic [ref=f2e135]:
+              - generic [ref=f2e136]: "\"Lo mejor fue que mi empresa paga casi la mitad del descuento mensual. Al final me salió muy barato ampliar mi casa con un cuarto extra para mis hijos.\""
+              - generic [ref=f2e139]:
+                - generic [ref=f2e140]: Roberto Sánchez
+                - generic [ref=f2e141]: Operador de planta
+            - generic [ref=f2e142]:
+              - generic [ref=f2e143]: "\"En menos de una semana tenía el dinero en mi cuenta. No tuve que pedir prestado ni dar nada en garantía. Es el crédito más accesible que he tenido.\""
+              - generic [ref=f2e146]:
+                - generic [ref=f2e147]: Patricia López
+                - generic [ref=f2e148]: Trabajadora en empresa de valores
+      - generic [ref=f2e150]:
+        - generic [ref=f2e151]:
+          - paragraph [ref=f2e152]: Confianza
+          - heading "Asesoría Transparente y Confiable" [level=2] [ref=f2e153]
+          - paragraph [ref=f2e154]: Ubicados en CDMX, somos expertos en navegar las reglas de MEJORAVIT con total confianza. Nuestro objetivo es que obtengas los beneficios que te corresponden de forma segura.
+          - generic [ref=f2e155]:
+            - generic [ref=f2e156]: verified_user
+            - generic [ref=f2e157]: Asesoría ajustada a ti
+        - img "Asesor financiero profesional sentado en un escritorio moderno en una oficina bien iluminada de CDMX, sonriendo con confianza mientras explica un documento a un cliente. Estética limpia, moderna y confiable, con tonos sutiles en verde sage y teal." [ref=f2e160]
+    - region [ref=f2e162]:
+      - generic [ref=f2e163]:
+        - heading "¡Comienza hoy con tu precalificación y obten tu Mejoravit ya!" [level=2] [ref=f2e164]
+        - paragraph [ref=f2e165]: No dejes pasar la oportunidad de mejorar tu calidad de vida.
+        - generic [ref=f2e167]:
+          - paragraph [ref=f2e169]: Precalificación Mejoravit
+          - generic [ref=f2e171]:
+            - generic [ref=f2e172]: home_work
+            - heading "Descubre cuánto te puede prestar Infonavit para mejorar tu hogar" [level=2] [ref=f2e174]
+            - paragraph [ref=f2e175]: Te decimos, en segundos, cuánto puedes obtener con tu Crédito Mejoravit.
+            - button "Comenzar mi precalificación" [ref=f2e176] [cursor=pointer]:
+              - text: Comenzar mi precalificación
+              - generic [ref=f2e177]: arrow_forward
+            - paragraph [ref=f2e178]:
+              - generic [ref=f2e179]: lock
+              - text: Sin compromiso · Tus datos están seguros
+    - link "Abrir chat de WhatsApp con un asesor de VITAHOGAR" [ref=f2e180] [cursor=pointer]:
+      - /url: https://wa.me/525548229886?text=Hola%2C%20vengo%20de%20la%20p%C3%A1gina%20de%20VITAHOGAR%20y%20me%20interesa%20una%20asesor%C3%ADa%20Mejoravit.
+      - img "WhatsApp" [ref=f2e181]
+      - generic: WhatsApp
+  - contentinfo [ref=f2e182]:
+    - generic [ref=f2e183]:
+      - generic [ref=f2e184]:
+        - img "VITAHOGAR" [ref=f2e185]
+        - navigation "Enlaces legales" [ref=f2e186]:
+          - generic [ref=f2e187]:
+            - paragraph [ref=f2e188]: Legales
+            - generic [ref=f2e189]:
+              - link "Aviso de Privacidad" [ref=f2e190] [cursor=pointer]:
+                - /url: "#"
+              - link "Términos y Condiciones" [ref=f2e191] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f2e192]:
+            - paragraph [ref=f2e193]: Contacto
+            - generic [ref=f2e194]:
+              - 'link "Whatsapp: 55 4822 9886" [ref=f2e195] [cursor=pointer]':
+                - /url: tel:+525548229886
+              - 'link "Email: contacto@vitahogar.mx" [ref=f2e196] [cursor=pointer]':
+                - /url: mailto:contacto@vitahogar.mx
+              - paragraph [ref=f2e197]: Praga 47, Col.Juárez, Cuauhtémoc,
+              - paragraph [ref=f2e198]: C.P. 06600 Ciudad de México, CDMX
+      - paragraph [ref=f2e200]: © 2026 VITAHOGAR. Todos los derechos reservados.
