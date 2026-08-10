@@ -4,9 +4,12 @@
   "cwd": "/Users/eloy/Downloads/practica-de-lp",
   "context": {},
   "metrics": {
-    "edits": 0,
+    "edits": 2,
     "commands": 0,
     "tasks": 0,
     "errors": 0
-  }
+  },
+  "restoredAt": "2026-08-10T20:27:30.115Z",
+  "endedAt": "2026-08-10T21:21:01.227Z",
+  "duration": 507212070
 }
